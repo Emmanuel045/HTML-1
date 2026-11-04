@@ -1,55 +1,19 @@
-/* 
-selector{
-property: value
-} */
-
-/* . -> class
-# -> id
-any html tag -> tag */
-
-/* we have 140 colours */
-
-.css{
-    color: rgb(233, 95, 95);
-    background-color: black;
-    font-size: 2rem;
-    &:hover {
-        color: rgb(233, 200, 95);
-        background-color: blue;
-        font-size: 2rem;
-    }
+.title{
+    font-family: "poppins", sans-serif;
+    font-size: 50px;
+    font-weight: 200;
+    text-align: center;
+    font-weight: bolder;
+    text-decoration: underline;
+    letter-spacing: 2px;
+    text-transform: uppercase;
+    line-height: .5;
 }
 
-.html{
-    color: blue;
-    background-color: black;
-    font-size: 2rem;
+.p1{
+    text-align: justify;
+    font-family: "Inter", sans-serif;
+    line-height: 1.5;
+    letter-spacing: normal;
+    font-size: 20px;
 }
-
-.javascript{
-    color: rgb(143, 206, 26);
-    background-color: black;
-    font-size: 2rem;
-}
-
-.box{
-    width: 100%;
-    height: 300px;
-    /* background-color: rgba(26, 10, 83, 0); /* the a is alpha which is the opacity of the colour */
-    background-image: url("./public/image/design.jpg");
-    background-position: center;
-    background-size: cover;
-    background-repeat: no-repeat;
-    color: green; /* the text colour */
-}
-
-.box .h1{
-    background-color: rgba(26, 10, 83, 0);
-}
-
-/* CI = Contineous integration 
-CD = Contineous Deployment
-GitHub is version control system */
-
-/* if you call sumn 2 times the code wil take the second one */
-/* any where you want to use your image as a background you can use your css */
