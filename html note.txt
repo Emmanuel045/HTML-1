@@ -389,3 +389,37 @@
         <h1 class="greetings">Season greetings</h1>
 
         <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Porro ad sit, cupiditate sed tenetur consequatur, explicabo impedit autem dolorum quas, itaque laudantium facilis omnis amet suscipit libero expedita! Cum, voluptatibus.</p>
+
+-------------------------------------------------------------------------
+
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Inter:ital,opsz,wght@0,14..32,100..900;1,14..32,100..900&family=Poppins:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&display=swap" rel="stylesheet">
+
+<div class="title"><h1>Daily News</h1></div>
+
+<p class="p1">Lorem, ipsum dolor sit amet consectetur adipisicing elit. Ut asperiores aspernatur inventore explicabo similique maxime. Praesentium temporibus vitae veritatis libero possimus nam alias non itaque quidem nemo dolor, tenetur quo, officia aliquid ab aspernatur repellendus, qui quibusdam consectetur! Praesentium accusamus corrupti debitis nobis consequatur, inventore molestiae eligendi voluptate dolore sapiente. <br><br>Lorem ipsum dolor sit amet consectetur adipisicing elit. Nostrum tempore numquam ut nesciunt illo sint eius obcaecati fugit laborum consequuntur quis nisi cum similique perspiciatis dolores harum vel facilis, deleniti illum mollitia veniam nam voluptatum. Quasi provident repudiandae, consectetur, cupiditate fugiat veritatis est alias laudantium repellat consequatur facere qui nobis? <br><br>Lorem ipsum dolor sit amet consectetur, adipisicing elit. Asperiores deserunt temporibus labore quidem numquam, necessitatibus eos ea magnam veniam modi molestias fuga ipsam sint, voluptas aliquid. Autem eveniet illo, cum ullam commodi itaque repellendus corporis voluptate voluptatum culpa soluta eaque atque fugiat, odio animi, harum sequi a cupiditate sit iure similique perspiciatis dolor saepe architecto! Facere doloribus natus corrupti distinctio exercitationem possimus voluptates reiciendis, doloremque omnis voluptatibus alias vel nihil quam cum, est quaerat quas dignissimos libero. Voluptas ad at dolor dolorum recusandae, quaerat distinctio soluta aliquid iure, laboriosam natus eos eveniet dolores, tempora magni itaque possimus ducimus nulla vero?</p>
+
+-----------------------------------------------------------------------------
+9th november 2026
+
+    <!-- <div class="box">
+            <h1>Username</h1>
+            <p>This is for the user space</p>
+        </div> -->
+
+        <div class="card">
+            <img src="/public/image/smiley-african-woman-with-golden-earrings-removebg-preview.png" alt="Profile photo" width="50">
+            <h1>Name: Onyekwere Emmanuel</h1>
+            <p>Job: AI Engineer</p>
+            <p>Phone No.: 08100270952</p>
+            <a href="https://instagram.com/yourusername"><i class="fa-brands fa-instagram" aria-hidden="true"></i></a>
+            <a href="https://wa.me/yourphonenumber"><i class="fa-brands fa-whatsapp" aria-hidden="true"></i></a>
+            <a href="https://x.com/yourusername"><i class="fa-brands fa-x-twitter" aria-hidden="true"></i></a>
+            <a href="https://facebook.com/yourusername"><i class="fa-brands fa-facebook" aria-hidden="true"></i></a>
+            <a href="https://linkedin.com/yourusername"><i class="fa-brands fa-linkedin" aria-hidden="true"></i></a>
+        </div>
+
+        <div class="clipped">
+            
+        </div>
