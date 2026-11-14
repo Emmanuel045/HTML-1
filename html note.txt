@@ -403,6 +403,9 @@
 -----------------------------------------------------------------------------
 9th november 2026
 
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.7.2/css/all.min.css">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/7.3.1/css/fontawesome.min.css" integrity="sha512-SMQ1DwSGiIDyNoXdQae7kUBADdtQa8Xsb3LxBxzAXExZNCCH/36yQSpZSYo1c6ckFshd1iMp9eD9+s9+tdhmyg==" crossorigin="anonymous" referrerpolicy="no-referrer">
+
     <!-- <div class="box">
             <h1>Username</h1>
             <p>This is for the user space</p>
@@ -423,3 +426,7 @@
         <div class="clipped">
             
         </div>
+
+----------------------------------------------------------------
+11th november 2026
+
